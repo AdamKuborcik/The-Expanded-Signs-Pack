@@ -3,7 +3,8 @@
 
 ![](https://img.shields.io/github/issues/Tim3Game/The-Expanded-Signs-Pack?style=flat-square) ![](https://img.shields.io/github/stars/Tim3Game/The-Expanded-Signs-Pack?style=flat-square) ![](https://img.shields.io/github/forks/Tim3Game/The-Expanded-Signs-Pack?style=flat-square ) ![](https://img.shields.io/github/release/Tim3Game/The-Expanded-Signs-Pack?style=flat-square)
 ![](https://cf.way2muchnoise.eu/full_333267_downloads.svg) ![](https://cf.way2muchnoise.eu/versions/333267.svg)
-##Announcement
+
+## Announcement
 I decided not to personally contribute actively to the pack. It may happen that I add something from time to time, but unless the Immersive Vehicle traffic sign system is changed, I find it unnecessary to create large-scale traffic signs. It is difficult and takes a lot of time and I would rather invest it in redoing the sign system rather than creating them so complicated.
 
 ## How is the pack updated
